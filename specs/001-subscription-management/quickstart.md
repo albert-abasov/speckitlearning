@@ -667,7 +667,7 @@ Complete this checklist to verify MVP is working correctly:
 
 - [Feature Specification](spec.md) - Full feature requirements
 - [Data Model](data-model.md) - Subscription entity, validation rules, storage
-- [API Contracts](contracts/) - Detailed endpoint contracts and DTOs
+- [API Contracts](contracts) - Detailed endpoint contracts and DTOs
 - [Implementation Plan](plan.md) - Design architecture and project structure
 
 ---
@@ -689,7 +689,7 @@ After successfully running and validating the MVP:
 1. Check [Troubleshooting](#troubleshooting) section
 2. Review browser DevTools Console and Network tabs
 3. Check backend logs in terminal/IDE output
-4. Consult [API Contracts](contracts/) for endpoint details
+4. Consult [API Contracts](contracts) for endpoint details
 5. Review [Data Model](data-model.md) for schema information
 
 **For bug reports**:
